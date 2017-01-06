@@ -1,1 +1,1 @@
-# Templates are in the other folders presentation 2 and presentation 3
+Templates are in the other folders presentation 2 and presentation 3
